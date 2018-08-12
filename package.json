@@ -19,5 +19,28 @@
   "bugs": {
     "url": "https://github.com/ramli21/profile_lp/issues"
   },
-  "homepage": "https://github.com/ramli21/profile_lp#readme"
+  "homepage": "https://github.com/ramli21/profile_lp#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.24.6",
+    "file-loader": "^1.1.11",
+    "font-awesome-loader": "^1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1",
+    "popper.js": "^1.14.4",
+    "url-loader": "^1.0.1",
+    "webpack-stream": "^5.1.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "css-loader": "^1.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.22.1"
+  }
 }
