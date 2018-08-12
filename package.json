@@ -1,0 +1,23 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "this is the example of the landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ramli21/profile_lp.git"
+  },
+  "keywords": [
+    "ramli",
+    "landingpage"
+  ],
+  "author": "ahmad ramli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramli21/profile_lp/issues"
+  },
+  "homepage": "https://github.com/ramli21/profile_lp#readme"
+}
